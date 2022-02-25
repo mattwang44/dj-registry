@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "matt/test/dj_registry"
+name = "matt_dj_registry"
 version = "0.2.1"
 description = "A simple, easy access key-value registry for Django."
 authors = ["Matt.Wang <mattwang44@gmail.com>"]
