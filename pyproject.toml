@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "matt_dj_registry"
-version = "0.2.2"
+version = "0.2.3"
 description = "A simple, easy access key-value registry for Django."
 authors = ["Matt.Wang <mattwang44@gmail.com>"]
 homepage = "https://github.com/mattwang44/dj-registry"
